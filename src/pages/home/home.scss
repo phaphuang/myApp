@@ -1,3 +1,39 @@
 page-home {
+    .items-header {
+        text-align: center; 
+        background-color: white;
+    }
 
+    .items-footer {
+        text-align: center; 
+        background-color: black; 
+        color: orange;
+    }
+
+    .page-footer {
+        position: fixed; 
+        left: 0px; 
+        bottom: 0px; 
+        height: 50px;
+        background-color: black;
+        padding: 0px;
+    }
+
+    .page-order {
+        color: white;
+        text-align: right; 
+        padding: 15px;
+    }
+
+    .page-cost {
+        color: royalblue; 
+        padding: 15px;
+    }
+
+    .btn-order {
+        background-color: orange; 
+        color: white;
+        height: 50px;
+        width: 100%;
+    }
 }
